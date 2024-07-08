@@ -1,5 +1,7 @@
 # QR Code Generator
 
+`pip install qrcode`
+
 ![example](https://github.com/mxfze/QR-Code-Generator/assets/148377456/b3e8dc7b-14b2-4e83-804c-92614f0f8c02)
 
 Enter the url to your desired website and enter what you would like the file to be saved as.
